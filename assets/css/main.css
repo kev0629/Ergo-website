@@ -3298,6 +3298,12 @@ input, select, textarea {
 			color: #636363;
 			text-align: left;
 		}
+		#nav h5{
+			line-height: 90%;
+		}
+		#nav h6{
+			line-height: 85%;
+		}
 
 		#nav blockquote {
 			border-left-color: #dddddd;
