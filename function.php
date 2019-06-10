@@ -7,7 +7,7 @@ function head($Name,$Profession) {
     <?php //echo$Profession ?></h1-->  
     <span class="image main"><img src="images/coralie.png" alt="" /></span>
     <section>
-            <p>Séance sur RDV<br>en cabinet ou à domicile</p>
+            <p>Séance sur RDV<br>en cabinet ou à domicile</>
     </section>         
     </header>
     <?php
@@ -82,12 +82,23 @@ function why(){
             <blockquote>L'ergothérapie est une profession paramédicale dont l'objectif est de maintenir, de restaurer et de permettre les activités de manière sécurisée, autonome et efficace.</blockquote>
         </header>
         
-        <p class="content">Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia.</p>
-        <footer class="major">
-            <ul class="actions special">
-            </ul>
+        
+		<section>									
+        <p>La mission de l'ergothérapeute est de permettre aux personnes de continuer à pratiquer les activités du quotidien:<br></p>
+        </section>
+		<p class="main">									
+        - efectuer les soins personnels.<br>
+        - se déplacer, comuniquer, se divertire.<br>
+        - acceder à la scolarité, aux étude, au travail.<br>
+        - efectuer des tâches personelles.<br>
+		</p>										
+        
+        
+        <p> l'ergothérapie peut être solicité à tous les âges de la vie. il intervient dès lors qu'un enfant, un adulte ou une perosnne âgée rencontre des dificultés à réaliser des gestes du qutidien. Ces difficultés oeuvent être liées à un handicap de naissance, à un trouble dévelopemental, à un handicap soudain 9suite à un accident par exemple), à des maladies ou au vieillissement normal des personnes</p>
+        <!--p class="content">Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia.</p-->
+        </section>
         </footer>
-    </section>    
+        
     <?php
 }
 
