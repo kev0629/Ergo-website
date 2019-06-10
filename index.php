@@ -6,7 +6,7 @@
 -->
 <?php
 	require("function.php");
-	$Name="Coralie Andrietti ";
+	$Name="Coralie ANDRIETTI ";
 	$Profession="Ergothérapeute";
 	$adress="37 avenue des Aloès 06600 Antibes";
 	$mail="coralie.andrietti@gmail.com";
