@@ -4,6 +4,11 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
+<?php
+	require("function.php");
+	$Name="Coralie Andrietti ";
+	$Profession="Ergotherapeute";
+?>
 <html>
 	<head>
 		<title>Coralie Andrietti Ergothérapeute</title>
@@ -19,9 +24,8 @@
 
 				<!-- Header >
 				<header id="header" class="alt">
-					
 					</header-->	
-
+				<?php head($Name,$Profession);?>
 				<!-- Nav -->
 					<nav id="nav">
 							<h6>Coralie ANDRIETTI Ergothérapeute</h6>
