@@ -39,7 +39,7 @@
 						
 							<?php
 							// Introduction
-							introduction();
+							//introduction();
 							// presentation
 							presentation();
 							// pourquoi

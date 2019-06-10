@@ -3,8 +3,12 @@
 function head($Name,$Profession) {
     ?>
     <header id="header" class="alt">
-    <h1><?php  echo$Name;?><br>
-    <?php echo$Profession ?></h1>            
+    <!--h1><?php  //echo$Name;?><br>
+    <?php //echo$Profession ?></h1-->  
+    <span class="image main"><img src="images/coralie.png" alt="" /></span>
+    <section>
+            <h2>Séance sur RDV<br>en cabinet ou à domicile</h2>
+    </section>         
     </header>
     <?php
 }
@@ -30,10 +34,7 @@ function introduction(){
 								
 										<section id="content" class="main">
 
-										<span class="image main"><img src="images/coralie.png" alt="" /></span>
-										<section>
-												<h2>Séance sur RDV<br>en cabinet ou à domicile</h2>
-										</section>
+										
 									</section>
 								</section><?php
 }
