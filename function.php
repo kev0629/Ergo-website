@@ -7,7 +7,7 @@ function head($Name,$Profession) {
     <?php //echo$Profession ?></h1-->  
     <span class="image main"><img src="images/coralie.png" alt="" /></span>
     <section>
-            <h2>Séance sur RDV<br>en cabinet ou à domicile</h2>
+            <p>Séance sur RDV<br>en cabinet ou à domicile</p>
     </section>         
     </header>
     <?php
