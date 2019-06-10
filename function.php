@@ -1,7 +1,7 @@
 <?php
 
 $Name="Coralie Andrietti ";
-$Profession="Ergotherapeute";
+$Profession="Ergothérapeute";
 
 
 
