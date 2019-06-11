@@ -47,8 +47,8 @@
 							Seances();
 							honoraires();
 							location()
+							
 								?>
-						
 					</div>
 
 				<!-- Footer -->
