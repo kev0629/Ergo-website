@@ -337,7 +337,7 @@ input, select, textarea {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
-		align-items: stretch;
+		align-items: left;
 	}
 
 		.row > * {
@@ -3848,6 +3848,4 @@ input, select, textarea {
 			}
 
 		}
-		div[id="row"]{
-			text-align:left;
-		}
+		
