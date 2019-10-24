@@ -3848,3 +3848,6 @@ input, select, textarea {
 			}
 
 		}
+		div[id="row"]{
+			text-align:left;
+		}
