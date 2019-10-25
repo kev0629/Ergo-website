@@ -3,9 +3,13 @@
 function head($Name,$Profession) {
     ?>
     <header id="header" class="alt">
-    <!--h1><?php  //echo$Name;?><br>
-    <?php //echo$Profession ?></h1-->  
-    <span class="image main"><img src="images/coralie.png" alt="" /></span>
+    <span class="image main"><img src="images/logo.png" alt="" /></span>
+    <div>
+    <h1><?php  echo$Name;?><br>
+    <?php echo$Profession ?></h1>
+    <h2>coralie.andrietti@gmail.com<br>06.64.43.62.60</h2>  
+    <!--span-- class="image main"><img src="images/coralie.png" alt="" /></!--span-->
+    <
     <section>
             <p>Séance sur RDV<br>en cabinet ou à domicile</>
     </section>         

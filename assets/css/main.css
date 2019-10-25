@@ -32,6 +32,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+img{
+	width: 10%;
+}
 
 ol, ul {
 	list-style: none;
@@ -2347,12 +2350,16 @@ input, select, textarea {
 		border-radius: 8px;
 		border: 0;
 		display: inline-block;
-		position: relative;
+		
 	}
 
 		.image img {
-			border-radius: 8px;
-			display: block;
+			
+			display:block;
+			width:100%;
+			position:relative;
+			margin-left: auto;
+			margin-right: auto;
 		}
 
 		.image.left, .image.right {
@@ -2391,8 +2398,17 @@ input, select, textarea {
 			width: 100%;
 		}
 
-			.image.main img {
-				width: 100%;
+			.image.main.title img {
+				width: 75%;
+				margin-left: auto;
+    			margin-right: auto;
+				
+			}
+			.image.main.logo img {
+				width: 25%;
+				margin-left: auto;
+    			margin-right: auto;
+				
 			}
 
 /* logo*/
