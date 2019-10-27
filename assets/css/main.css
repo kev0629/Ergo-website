@@ -2401,7 +2401,8 @@ input, select, textarea {
 			.image.main.title img {
 				width: 75%;
 				margin-left: auto;
-    			margin-right: auto;
+				margin-right: auto;
+				bottom:50px;
 				
 			}
 			.image.main.logo img {
@@ -2410,9 +2411,14 @@ input, select, textarea {
     			margin-right: auto;
 				
 			}
+			
 
 /* logo*/
-
+.photo{
+				width: 25%;
+				margin-left: auto;
+    			margin-right: auto;
+}
 
 .logo {
 	border-radius: 8px;
@@ -2683,7 +2689,9 @@ input, select, textarea {
 			}
 
 /* Section/Article */
-
+	section[id="title"]{
+		
+	}
 	section.special, article.special {
 		text-align: center;
 	}
