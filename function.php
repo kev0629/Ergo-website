@@ -3,13 +3,13 @@
 function head($Name,$Profession) {
     ?>
     <header id="header" class="alt">
-    <span class="image main"><img src="images/logo.png" alt="" /></span>
+    <span class="image main logo"><img src="images/logo.png" alt="" /></span>
     <div>
     <h1><?php  echo$Name;?><br>
     <?php echo$Profession ?></h1>
     <h2>coralie.andrietti@gmail.com<br>06.64.43.62.60</h2>  
     <!--span-- class="image main"><img src="images/coralie.png" alt="" /></!--span-->
-    <
+    
     <section>
             <p>Séance sur RDV<br>en cabinet ou à domicile</>
     </section>         
@@ -47,7 +47,7 @@ function presentation(){?>
     <section id="first" class="main special">
             <header class="major">
                 <h2>Présentation
-                        <br><img src="images/0.jpg" alt="" />
+                        <br><img class="photo" src="images/0.jpeg" alt="" />
                 </h2>
                 
             </header>
@@ -63,9 +63,6 @@ function presentation(){?>
                     </h6>
                 </li>
                 <li>
-                
-                
-                
                     <h3>Experiences notable</h3>
                     <p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
                 </li>

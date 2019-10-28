@@ -3634,6 +3634,7 @@ input, select, textarea {
 		}
 
 		#main header.major h2:after {
+			margin:auto;
 			background-color: #dddddd;
 			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
@@ -3672,6 +3673,9 @@ input, select, textarea {
 		#main > .main {
 			padding: 5em 5em 3em 5em ;
 			border-top: solid 1px #dddddd;
+		}
+		#main > .main2 {
+			padding: 0em 5em 3em 5em ;
 		}
 
 			#main > .main:first-child {
