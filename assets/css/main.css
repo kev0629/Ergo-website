@@ -1,11 +1,6 @@
 @import url(font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 
-/*
-	Stellar by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -124,7 +119,7 @@ input, select, textarea {
 
 	body {
 		background-color: #4d9393;
-		color: rgba(255, 255, 255, 0.65);
+		color: rgb(255, 255, 255);
 	}
 
 	body, input, select, textarea {
@@ -420,7 +415,7 @@ input, select, textarea {
 		}
 
 		.row > .col-6 {
-			width: 50%;
+			width: 80%;
 		}
 
 		.row > .off-6 {
@@ -3305,7 +3300,7 @@ box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 		-ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		background-color: #ffffff;
-		color: #636363;
+		color: #000000;
 		position: absolute;
 		width: 64em;
 		max-width: calc(100% - 4em);
@@ -3318,23 +3313,23 @@ box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 	}
 
 		#nav input, #nav select, #nav textarea {
-			color: #636363;
+			color: #000000;
 		}
 
 		#nav a:hover {
-			color: #636363;
+			color: #000000;
 		}
 
 		#nav strong, #nav b {
-			color: #636363;
+			color: #000000;
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5,#nav h6  {
-			color: #636363;
+			color: #000000;
 		}
 
 		#nav h5,#nav h6{
-			color: #636363;
+			color: #000000;
 			text-align: left;
 		}
 		#nav h5{
@@ -3436,24 +3431,24 @@ box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 
 	#main {
 		background-color: #ffffff;
-		color: #636363;
+		color: #000000;
 		border-radius: 0.25em;
 	}
 
 		#main input, #main select, #main textarea {
-			color: #636363;
+			color: #000000;
 		}
 
 		#main a:hover {
-			color: #636363;
+			color: #000000;
 		}
 
 		#main strong, #main b {
-			color: #636363;
+			color: #000000;
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #636363;
+			color: #000000;
 		}
 		#main h2 {
 			text-align: center;
@@ -3545,7 +3540,7 @@ box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 				}
 
 		#main label {
-			color: #636363;
+			color: #000000;
 		}
 
 		#main input[type="text"],
