@@ -2412,14 +2412,27 @@ input, select, textarea {
 				width: 50%;
 				float: left;
 				margin: 0 1.5em 1em 0;
+				border-radius: 8px;
 			}
 
-			.image.main.v img {
+			.image.main.velo img {
 				width: 25%;
-				margin-left: auto;
-				margin-right: auto;
-				
-				
+				float: left;
+				margin: 0 1.5em 1em 0;
+				box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+				border-radius: 8px;
+			}
+			.image.main.fauteuil img {
+				width: 25%;
+				float: left;
+				margin: 0 1.5em 1em 0;
+			}
+			.image.main.jouets img {
+				width: 30%;
+				float: right;
+				margin: 0 1.5em 1em 0;
+				box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+				border-radius: 8px;
 			}
 			
 			
