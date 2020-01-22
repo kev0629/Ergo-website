@@ -415,7 +415,7 @@ input, select, textarea {
 		}
 
 		.row > .col-6 {
-			width: 80%;
+			width: 100%;
 		}
 
 		.row > .off-6 {
@@ -2419,8 +2419,6 @@ input, select, textarea {
 				width: 25%;
 				float: left;
 				margin: 0 1.5em 1em 0;
-				box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
-				border-radius: 8px;
 			}
 			.image.main.fauteuil img {
 				width: 25%;
@@ -2428,11 +2426,9 @@ input, select, textarea {
 				margin: 0 1.5em 1em 0;
 			}
 			.image.main.jouets img {
-				width: 30%;
-				float: right;
+				width: 17%;
+				float: left;
 				margin: 0 1.5em 1em 0;
-				box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
-				border-radius: 8px;
 			}
 			
 			
