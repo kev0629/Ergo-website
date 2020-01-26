@@ -2430,6 +2430,16 @@ input, select, textarea {
 				float: left;
 				margin: 0 1.5em 1em 0;
 			}
+			.image.main.enfant img {
+				width: 17%;
+				float: right;
+				margin: 5em 1.5em 1em 0;
+			}
+			.image.main.personne img {
+				width: 20%;
+				float: left;
+				margin: 6em 1.5em 1em 0;
+			}
 			
 			
 
