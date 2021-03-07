@@ -2394,7 +2394,7 @@ input, select, textarea {
 		}
 
 			.image.main.title img {
-				width: 75%;
+				width: 60%;
 				margin-left: auto;
 				margin-right: auto;
 				bottom:50px;
@@ -3912,3 +3912,28 @@ box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 			}
 
 		}
+.wrapper-cards {
+	text-align: center;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 10px;
+	grid-auto-rows: minmax(100px, auto);
+	padding: auto;
+	}
+
+	.card {
+		padding: 40px;
+		background: #fff;
+		max-width: 360px;
+		border-radius: 20px;
+		margin: 60px auto;
+	  }
+	  .highlight {
+		font-weight: bold;
+		color: #294;
+	  }
+	  
+	  
+	  .shadow2 { 
+		box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+	  }
